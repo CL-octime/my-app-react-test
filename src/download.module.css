@@ -1,0 +1,11 @@
+.downloadButton {
+    padding: 10px 20px;
+    background-color: #df1885;
+    color: rgb(34, 202, 28);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .downloadButton:hover {
+    background-color: #e41616;
+  }

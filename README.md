@@ -1,3 +1,5 @@
+Ne pas oublier de telecharger le package : node_modules
+
 ![Exemple d'image](https://github.com/CL-octime/my-app-react-test/blob/main/appreact.png)
 
 
